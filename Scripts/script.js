@@ -190,7 +190,7 @@ function updateSoundButton() {
     const btn = document.getElementById('soundBtn');
     if (!btn) return;
     btn.classList.toggle('active', audioPlaying);
-    btn.src = audioPlaying ? 'Media/sound.png' : 'Media/soundclosed.png';
+    btn.src = audioPlaying ? 'Media/sound.png' : 'Media/Soundclosed.png';
 }
 
 function toggleSound() {
