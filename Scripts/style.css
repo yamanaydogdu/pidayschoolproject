@@ -1,0 +1,109 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(135deg, #00111a, #001f33);
+    background-size: 400% 400%;
+    animation: bgAnim 30s ease infinite;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+@keyframes bgAnim {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+#piCanvas {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#header {
+    position: absolute;
+    top: 5vh; 
+    left: 50%;
+    transform: translateX(-50%);
+    width: auto;
+    text-align: center;
+    font-size: 4vw;
+    font-weight: 700;
+    pointer-events: none;
+    text-shadow: 0 0 12px rgba(255,255,255,0.8);
+    z-index: 10;
+    color: #4400ff;    animation: slowRainbow 20s linear infinite;}
+
+#overlay {
+    position: absolute;
+    top: 15vw;
+    width: 100%;
+    text-align: center;
+    font-size: 3vw;
+    font-weight: bold;
+    pointer-events: none;
+    text-shadow: 0 0 10px rgba(255,255,255,0.7);
+    animation: pulse 3s infinite;
+}
+
+.corner {
+    position: absolute;
+    top: 5vh;
+    width: 6vw;
+    height: auto;
+    pointer-events: none;
+    z-index: 5;
+    animation: slowRainbow 20s linear infinite;
+}
+.corner.left { left: 5vw; }
+.corner.right { right: 5vw; }
+
+#soundBtn {
+    position: absolute;
+    top: auto;    
+    bottom: 5vh;
+    right: 5vw;
+    width: 6vw;
+    height: auto;
+    cursor: pointer;
+    z-index: 7;
+    pointer-events: auto; 
+}
+
+#soundBtn.active {
+    filter: brightness(1.4) drop-shadow(0 0 4px #fff);
+}
+
+#fact {
+    position: absolute;
+    bottom: 3vh;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 1000px;
+    text-align: center;
+    font-size: 2.2vw;
+    color: #e6f7ff;
+    background: rgba(0,0,0,0.18);
+    padding: 0.6vh 1vw;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+    pointer-events: none;
+    z-index: 6;
+}
+
+@media (max-width: 600px) {
+    #fact { font-size: 3.8vw; width: 94%; }
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 0.8; }
+    50% { opacity: 1; }
+}
+
+@keyframes slowRainbow {
+    from { filter: hue-rotate(0deg); }
+    to { filter: hue-rotate(360deg); }
+}

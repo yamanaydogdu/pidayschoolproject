@@ -1,0 +1,204 @@
+{
+    "funFacts": [
+        {
+            "fact": "Pi irrasyonel bir sayıdır; basit bir kesir olarak ifade edilemez ve ondalık gösterimi hiç bitmez veya tekrar etmez.",
+            "id": 1
+        },
+        {
+            "fact": "Pi'nin ilk 100 basamağı 0–9 arasındaki tüm rakamları içerir, ancak 0 rakamı ilk 100 basamakta diğerlerinden daha az görünür.",
+            "id": 2
+        },
+        {
+            "fact": "Pi Günü her yıl 14 Mart'ta (3/14) matematikçiler ve matematik meraklıları tarafından kutlanır.",
+            "id": 3
+        },
+        {
+            "fact": "Antik Babilliler pi'yi yaklaşık 3,125 olarak buldular; Arşimet ise pi'nin 3,1408 ile 3,1429 arasında olduğunu hesapladı.",
+            "id": 4
+        },
+        {
+            "fact": "Modern bilgisayarlarla pi'nin 100 trilyondan fazla basamağı hesaplandı, ancak pratik uygulamalarda genellikle sadece yaklaşık 39 basamak kullanılır.",
+            "id": 5
+        },
+    {
+        "fact": "Pi'yi temsil etmek için 'π' sembolünü ilk kullanan 1706'da Galli matematikçi William Jones'tur.",
+        "id": 6
+    },
+    {
+        "fact": "Pi, çember alanı, salınımlar ve kuantum mekaniği dahil olmak üzere matematik ve fiziğin birçok alanında doğal olarak ortaya çıkar.",
+        "id": 7
+    },
+    {
+        "fact": "1897'de Indiana eyaleti 'çemberi kareleştirdiklerini' iddia eden ve pi'yi 3.2 olarak belirten bir yasa tasarısı geçirdi, ancak uygulanmadı.",
+        "id": 8
+    },
+    {
+        "fact": "Pi'nin basamaklarının bilinen bir deseni yoktur; bu da pi'yi rastgele görünen bir transandantal sayı yapar.",
+        "id": 9
+    },
+    {
+        "fact": "Pi'yi ezberlemek popüler bir hobi; dünya rekoru sahibi 100.000'den fazla basamağı sıralayabilmektedir.",
+        "id": 10
+    },
+    {
+        "fact": "Pi, pizza kutusu boyutlarından uyduların yörünge mekaniğine kadar birçok hesaplamada kullanılır.",
+        "id": 11
+    },
+    {
+        "fact": "Bir çemberin çevresinin çapına oranı sabittir ve çemberin boyutundan bağımsız olarak pi'ye eşittir.",
+        "id": 12
+    },
+    {
+        "fact": "Albert Einstein Pi Günü'nde doğmuştur (14 Mart 1879).",
+        "id": 13
+    },
+    {
+        "fact": "Euler kimliği e^(iπ) + 1 = 0, matematikte en güzel denklem olarak görülür ve pi'yi içerir.",
+        "id": 14
+    },
+    {
+        "fact": "1995'te keşfedilen Bailey–Borwein–Plouffe formülü, önceki basamakları hesaplamadan pi'nin belirli basamaklarını doğrudan hesaplamaya olanak tanır.",
+        "id": 15
+    },
+    {
+        "fact": "Eski Mısır, Çin ve Hindistan pi için yapılan tahminlerde gerçeğe oldukça yakın değerler bulmuştur.",
+        "id": 16
+    },
+    {
+        "fact": "Pi'nin basamakları süper bilgisayarlar kullanılarak 62 trilyondan fazla ondalık basamağa kadar hesaplanmıştır.",
+        "id": 17
+    },
+    {
+        "fact": "Pi'nin ondalıktan sonraki ilk basamağı 1'dir; bu nedenle pi yaklaşık olarak 3,14159265359'dur.",
+        "id": 18
+    },
+    {
+        "fact": "Pi, özellikle normal dağılım formülünde olmak üzere istatistik ve olasılık teorisinde kullanılır.",
+        "id": 19
+    },
+    {
+        "fact": "1988'de geliştirilen Chudnovsky algoritması, pi basamaklarını hesaplamak için en hızlı yöntemlerden biridir.",
+        "id": 20
+    },
+    {
+        "fact": "Pi'nin basamaklarını bir çember etrafına başlangıç noktasından yazıp bağlarsanız, desen sonsuz kez kendine dokunur.",
+        "id": 21
+    },
+    {
+        "fact": "Son yıllarda pi hesaplamasına adanmış bilgisayarlar, basamaklarının tekrarlanmaya devam etmediğini doğrulamıştır.",
+        "id": 22
+    },
+    {
+        "fact": "Dünyanın çevresinin çapına oranı yaklaşık olarak pi'ye eşittir.",
+        "id": 23
+    },
+    {
+        "fact": "Pi, köprü inşaatından akıllı telefon anten tasarımına kadar mühendislik uygulamalarında kullanılır.",
+        "id": 24
+    },
+    {
+        "fact": "Bir ezber cümlesi 'How I need a drink, alcoholic of course, after the heavy lectures involving quantum mechanics' pi'nin ilk 15 basamağını verir.",
+        "id": 25
+    },
+    {
+        "fact": "Pi Yaklaşık Gün'ü 22 Temmuz'da (22/7) kutlanır; çünkü 22/7 kesri pi için yaygın bir yaklaşık değerdir.",
+        "id": 26
+    },
+    {
+        "fact": "Pi'nin ilk 9 milyon basamağı içinde rastgele kendi doğum tarihinizi bulma olasılığı şaşırtıcı derecede yüksektir.",
+        "id": 27
+    },
+    {
+        "fact": "1593'te yayımlanan Viète formülü, sonsuz bir çarpım kullanarak pi için ilk kesin formüldü.",
+        "id": 28
+    },
+    {
+        "fact": "Pi, tarih boyunca müzik, sanat ve edebiyata ilham verdi; sonsuzluğu ve matematiksel güzelliği simgeler.",
+        "id": 29
+    },
+    {
+        "fact": "9 rakamı, pi'nin ilk 100 basamağında 10 kez görünerek en sık görülen rakamdır.",
+        "id": 30
+    },
+    {
+        "fact": "Pi'nin ondalıklı gösterimi bir matematik kitabının tamamını doldurabilecek kadar uzundur.",
+        "id": 31
+    },
+    {
+        "fact": "Bazı sanatçılar pi'nin basamaklarını tuval üzerine yazıp görsel eserler ortaya koyarlar.",
+        "id": 32
+    },
+    {
+        "fact": "Bilgisayar bilimi derslerinde pi hesaplamaları genellikle performans testi olarak kullanılır.",
+        "id": 33
+    },
+    {
+        "fact": "Pi, Fourier serileri ve dalgacık çözümlerinde sıkça karşımıza çıkar.",
+        "id": 34
+    },
+    {
+        "fact": "İnsanlar pi gününü genellikle pasta yiyerek kutladıkları için 'Pi' İngilizce'de 'pie' (pasta) ile oyun yapılır.",
+        "id": 35
+    },
+    {
+        "fact": "Pi’nin basamakları hiçbir matematiksel formül tarafından tamamen tahmin edilememiştir.",
+        "id": 36
+    },
+    {
+        "fact": "Pi, diferansiyel denklemlerde ve fiziksel sabitlerde doğal olarak yer alır.",
+        "id": 37
+    },
+    {
+        "fact": "Bazı programlama yarışmalarında pi'yi mümkün olduğunca az kodla hesaplamak yarışma konusudur.",
+        "id": 38
+    },
+    {
+        "fact": "Pi hakkında yazılmış şiir ve hikayeler matematik dünyasında yaygındır.",
+        "id": 39
+    },
+    {
+        "fact": "Eski Çinliler pi'yi 355/113 kesriyle yaklaşık hesaplamışlardır; bu gün bile oldukça isabetlidir.",
+        "id": 40
+    },
+    {
+        "fact": "Pi hesaplamak için kullanılan algoritmalar modern kriptolojideki karmaşık sayı işlemlerine benzerdir.",
+        "id": 41
+    },
+    {
+        "fact": "Bazı zecek filmlerinde pi'nin bir mesaj içerdiği varsayılır; bu bir şehir efsanesidir.",
+        "id": 42
+    },
+    {
+        "fact": "Pi'nin ondalık basamakları arasında film replikleri veya doğum tarihleri arayanlar vardır.",
+        "id": 43
+    },
+    {
+        "fact": "Matematikçiler pi'nin normal olup olmadığını yani basamaklarının eşit dağılmasını hâlâ kanıtlayamamıştır.",
+        "id": 44
+    },
+    {
+        "fact": "Pi'nin hacim hesaplarında görünmesi kürelerin temel geometrik özelliğidir.",
+        "id": 45
+    },
+    {
+        "fact": "Pi'nin yaklaşık değerleri antik metinlerde çakış ablannın bulgularında ortaya çıkmıştır.",
+        "id": 46
+    },
+    {
+        "fact": "14 Mart, Pi Günü olarak da Einstein’in doğum günü olması nedeniyle iki kutlama bir arada olur.",
+        "id": 47
+    },
+    {
+        "fact": "Pi üzerine en uzun makale yüzlerce sayfa sürebilir; bazı kitaplar sadece bu sabitten bahseder.",
+        "id": 48
+    },
+    {
+        "fact": "Bazı programcılar, pi'nin ilk 100000 basamağını ekrana yazdırmak için 'hello world' programını değiştirir.",
+        "id": 49
+    },
+    {
+        "fact": "Pi basamaklarını bilgisayarın hafızasında saklamak birçok depolama sorununa yol açabilir.",
+        "id": 50
+    }
+    ]
+}
